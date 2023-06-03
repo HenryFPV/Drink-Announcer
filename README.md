@@ -1,5 +1,5 @@
 # Drink Announcer
- Makes announcer to drink up every once in a while
+ Makes an announcement to drink up every once in a while
 
 Need for this:
     python
